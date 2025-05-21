@@ -1,0 +1,101 @@
+[
+  {
+    "category": "header",
+    "id": 10,
+    "page": 2,
+    "content": {
+      "html": "<header id='10' style='font-size:14px'>자동차사고 과실비율분쟁 심의 사례 I 제1장 자동차와 자동차의 사고</header>",
+      "text": "자동차사고 과실비율분쟁 심의 사례 I 제1장 자동차와 자동차의 사고"
+    }
+  },
+  {
+    "category": "header",
+    "id": 11,
+    "page": 2,
+    "content": {
+      "html": "<br><header id='11' style='font-size:16px'>021</header>",
+      "text": "021"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 12,
+    "page": 2,
+    "content": {
+      "html": "<h1 id='12' style='font-size:18px'>입증 자료</h1>",
+      "text": "입증 자료"
+    }
+  },
+  {
+    "category": "table",
+    "id": 13,
+    "page": 2,
+    "content": {
+      "html": "<br><table id='13' style='font-size:14px'><thead></thead><tbody><tr><td>교통사고사실확인원 ■ 차종:승용차</td><td>교통사고 경찰서 접수번호 제2018</td></tr><tr><td>주 소 운전면허 사고차량</td><td>(소유자:</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>발생일시 2018.07.26 09:30</td><td></td></tr><tr><td>발생장소</td><td>사거리 □화대사탕</td></tr><tr><td>사고유형 ■ 최대화 0 차량단독</td><td>□기타</td></tr><tr><td>사고원인 신호 또는 지시 위한</td><td></td></tr><tr><td>지해내용 만들 사망 명 물론 상담</td><td></td></tr><tr><td>1차량이 사고개요</td><td></td></tr><tr><td>정신호에 직접취인 42차장 충돌한 사교별, 사고내용</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>·</td><td></td></tr><tr><td>교통사고사실확인원에 피청구차량의 신호위반(적색신호 에 교차로 진입)으로 판단됨</td><td>· 피청구차량 조수석 측면부 파손 · 청구차량 전면부 파손</td></tr></tbody></table>",
+      "text": "교통사고사실확인원 ■ 차종:승용차\n교통사고 경찰서 접수번호 제2018\n주 소 운전면허 사고차량\n(소유자:\n발생일시 2018.07.26 09:30\n발생장소\n사거리 □화대사탕\n사고유형 ■ 최대화 0 차량단독\n□기타\n사고원인 신호 또는 지시 위한\n지해내용 만들 사망 명 물론 상담\n1차량이 사고개요\n정신호에 직접취인 42차장 충돌한 사교별, 사고내용\n·\n교통사고사실확인원에 피청구차량의 신호위반(적색신호 에 교차로 진입)으로 판단됨\n· 피청구차량 조수석 측면부 파손 · 청구차량 전면부 파손"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 14,
+    "page": 2,
+    "content": {
+      "html": "<h1 id='14' style='font-size:20px'>주요 쟁점</h1>",
+      "text": "주요 쟁점"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 15,
+    "page": 2,
+    "content": {
+      "html": "<h1 id='15' style='font-size:16px'>● 피청구차량이 적색신호(신호위반)에 신호기 있는 교차로를 진입하였는지 여부</h1>",
+      "text": "● 피청구차량이 적색신호(신호위반)에 신호기 있는 교차로를 진입하였는지 여부"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 16,
+    "page": 2,
+    "content": {
+      "html": "<h1 id='16' style='font-size:20px'>결정 근거</h1>",
+      "text": "결정 근거"
+    }
+  },
+  {
+    "category": "list",
+    "id": 17,
+    "page": 2,
+    "content": {
+      "html": "<p id='17' data-category='list' style='font-size:18px'>· 교통사고사실확인원에 피청구차량의 신호위반(적색신호에 직진 주행 중)으로 기재되어 있고,<br>· 피청구인이 주장하는 사실관계를 확인할 객관적인 증거는 없는 상태임</p>",
+      "text": "· 교통사고사실확인원에 피청구차량의 신호위반(적색신호에 직진 주행 중)으로 기재되어 있고,\n· 피청구인이 주장하는 사실관계를 확인할 객관적인 증거는 없는 상태임"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 18,
+    "page": 2,
+    "content": {
+      "html": "<h1 id='18' style='font-size:20px'>결정 이유</h1>",
+      "text": "결정 이유"
+    }
+  },
+  {
+    "category": "list",
+    "id": 19,
+    "page": 2,
+    "content": {
+      "html": "<p id='19' data-category='list' style='font-size:18px'>교통사고사실확인원상 신호기 있는 사거리 교차로에서 피청구차량이 적색신호에 교차로를 직진하였고(신호<br>위반),<br>만약, 피청구차량이 황색신호에 교차로를 진입하였다고 하여도 청구차량이 신호에 따라 직진하였으므로, 녹<br>색신호에 따라 교차로에 진입한 청구차량의 과실을 인정하기 어려움<br>청구차량 0% · 피청구차량 100%</p>",
+      "text": "교통사고사실확인원상 신호기 있는 사거리 교차로에서 피청구차량이 적색신호에 교차로를 직진하였고(신호\n위반),\n만약, 피청구차량이 황색신호에 교차로를 진입하였다고 하여도 청구차량이 신호에 따라 직진하였으므로, 녹\n색신호에 따라 교차로에 진입한 청구차량의 과실을 인정하기 어려움\n청구차량 0% · 피청구차량 100%"
+    }
+  },
+  {
+    "category": "paragraph",
+    "id": 20,
+    "page": 2,
+    "content": {
+      "html": "<br><p id='20' data-category='paragraph' style='font-size:22px'>1.<br>자동차와<br>자동차의<br>사고</p>",
+      "text": "1.\n자동차와\n자동차의\n사고"
+    }
+  }
+]

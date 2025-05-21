@@ -1,0 +1,56 @@
+[
+  {
+    "category": "header",
+    "content": {
+      "html": "<header id='713' style='font-size:14px'>자동차사고 과실비율분쟁 심의 사례 I 제1장 자동차와 자동차의 사고</header>"
+    }
+  },
+  {
+    "category": "header",
+    "content": {
+      "html": "<br><header id='714' style='font-size:14px'>090</header>"
+    }
+  },
+  {
+    "category": "heading1",
+    "content": {
+      "html": "<h1 id='715' style='font-size:20px'>차대차 직진 대 좌회전 사고(측면)  사거리 교차로(표지가 한쪽방향에만 있음)</h1>"
+    }
+  },
+  {
+    "category": "table",
+    "content": {
+      "html": "<table id='716' style='font-size:18px'><thead></thead><tbody><tr><td rowspan=\"2\">일시정지 위반 직진 (오른쪽 도로에서 진입) 사고 (기본과실 준용)</td><td rowspan=\"2\">신호등 없음</td><td rowspan=\"2\">사거리</td><td rowspan=\"2\">정 지 STOP 직진(일시정지 위반)</td><td rowspan=\"2\">좌회전(왼쪽 도로 에서 진입)</td><td>참고기준</td></tr><tr><td>227</td></tr></tbody></table>"
+    }
+  },
+  {
+    "category": "heading1",
+    "content": {
+      "html": "<h1 id='717' style='font-size:18px'>사례 개요</h1>"
+    }
+  },
+  {
+    "category": "table",
+    "content": {
+      "html": "<br><table id='718' style='font-size:16px'><thead></thead><tbody><tr><td>심의번호</td><td>2019-048149</td><td>결정비율</td><td>A(피청구) : B(청구) = 60 : 40</td></tr><tr><td>사고내용</td><td colspan=\"3\">· 휴게소 내 교차로에서 청구차량이 좌회전 중 일시정지 표시가 있는 오른쪽 도로에서 직진하던 피청구차량과 충돌한 사고임</td></tr><tr><td>참고 인정기준 227</td><td colspan=\"2\">정 지 STOP</td><td>일시정지의무를 위반한 직진차량이 오른쪽에서 진입한 경우에는 도로교통법 제26조 제3항을 감안하여 직진 차량인 A차량의 과실을 10% 낮추어 양 차량의 기본과 실을 60:40으로 정하였다. 기본비율 A : B = 60 : 40</td></tr></tbody></table>"
+    }
+  },
+  {
+    "category": "heading1",
+    "content": {
+      "html": "<h1 id='719' style='font-size:20px'>주장 내용</h1>"
+    }
+  },
+  {
+    "category": "table",
+    "content": {
+      "html": "<br><table id='720' style='font-size:16px'><thead><tr><td>청구인</td><td>피청구인</td></tr></thead><tbody><tr><td>대차시지 ←일정 자차</td><td>자자 타카</td></tr><tr><td>· 청구차량이 정상 직진 중 교차로에서 정차하였으나, 오른 쪽 도로에서 일시정지 표시를 위반하여 직진하는 피청구 차량과 충돌한 사고임 · 피청구차량의 일시정지 표시 위반을 고려하면, 청구차량 의 과실 20%, 피청구차량의 과실 80%가 타당함</td><td>· 신호기 없는 삼거리 형태 교차로에서 피청구차량이 정상 직진 중 청구차량이 좌회전을 하여 사고가 발생하였음 · 좌회전한 청구차량이 부주의하게 운행하여, 피청구차량 의 측면을 접촉하였고, 피청구차량으로서는 피양하기 어 려운 상황이었으므로, 청구차량의 과실 90%, 피청구차 량의 과실 10%가 타당함</td></tr></tbody></table>"
+    }
+  },
+  {
+    "category": "paragraph",
+    "content": {
+      "html": "<br><p id='721' data-category='paragraph' style='font-size:22px'>1.<br>자동차와<br>자동차의<br>사고</p>"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "category": "header",
+    "id": 0,
+    "page": 1,
+    "content": {
+      "html": "<header id='0' style='font-size:14px'>자동차사고 과실비율분쟁 심의 사례 I 제1장 자동차와 자동차의 사고</header>",
+      "text": "자동차사고 과실비율분쟁 심의 사례 I 제1장 자동차와 자동차의 사고"
+    }
+  },
+  {
+    "category": "header",
+    "id": 1,
+    "page": 1,
+    "content": {
+      "html": "<br><header id='1' style='font-size:14px'>020</header>",
+      "text": "020"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 2,
+    "page": 1,
+    "content": {
+      "html": "<h1 id='2' style='font-size:20px'>차대차 직진 대 직진 사고 - 사거리 교차로(상대 차량이 측면 방향에서 진입)</h1>",
+      "text": "차대차 직진 대 직진 사고 - 사거리 교차로(상대 차량이 측면 방향에서 진입)"
+    }
+  },
+  {
+    "category": "table",
+    "id": 3,
+    "page": 1,
+    "content": {
+      "html": "<br><table id='3' style='font-size:18px'><thead></thead><tbody><tr><td rowspan=\"2\">한쪽 차량 신호위반 사고 (기본과실)</td><td rowspan=\"2\">신호등 있음</td><td rowspan=\"2\">사거리</td><td rowspan=\"2\">녹색 직진</td><td>참고기준</td></tr><tr><td>201 적색 직진</td></tr></tbody></table>",
+      "text": "한쪽 차량 신호위반 사고 (기본과실)\n신호등 있음\n사거리\n녹색 직진\n참고기준\n201 적색 직진"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 4,
+    "page": 1,
+    "content": {
+      "html": "<h1 id='4' style='font-size:18px'>사례 개요</h1>",
+      "text": "사례 개요"
+    }
+  },
+  {
+    "category": "table",
+    "id": 5,
+    "page": 1,
+    "content": {
+      "html": "<br><table id='5' style='font-size:16px'><thead></thead><tbody><tr><td>심의번호</td><td>2018-051544</td><td>결정비율</td><td>A(청구) : B(피청구) = 0 : 100</td></tr><tr><td>사고내용</td><td colspan=\"3\">· 신호기 있는 사거리 교차로에서 적색신호에 직진하던 피청구차량과 녹색신호에 직진하던 청 구차량간의 충돌사고</td></tr></tbody></table>",
+      "text": "심의번호\n2018-051544\n결정비율\nA(청구) : B(피청구) = 0 : 100\n사고내용\n· 신호기 있는 사거리 교차로에서 적색신호에 직진하던 피청구차량과 녹색신호에 직진하던 청 구차량간의 충돌사고"
+    }
+  },
+  {
+    "category": "table",
+    "id": 6,
+    "page": 1,
+    "content": {
+      "html": "<br><table id='6' style='font-size:16px'><thead></thead><tbody><tr><td></td><td>녹색 적색</td></tr><tr><td>참고 인정기준 201</td><td>신호기가 있는 교차로에서 신호는 양 차량 운전자가 신 뢰하는 것으로, A차량은 B차량이 적색신호를 위반하 여 직진할 것을 예상하고 주의해야 할 이유가 없으므로  B차량의 일방과실로 정한다. 적색 기본비율 A : B = 0 : 100 녹색</td></tr></tbody></table>",
+      "text": "녹색 적색\n참고 인정기준 201\n신호기가 있는 교차로에서 신호는 양 차량 운전자가 신 뢰하는 것으로, A차량은 B차량이 적색신호를 위반하 여 직진할 것을 예상하고 주의해야 할 이유가 없으므로  B차량의 일방과실로 정한다. 적색 기본비율 A : B = 0 : 100 녹색"
+    }
+  },
+  {
+    "category": "heading1",
+    "id": 7,
+    "page": 1,
+    "content": {
+      "html": "<h1 id='7' style='font-size:20px'>주장 내용</h1>",
+      "text": "주장 내용"
+    }
+  },
+  {
+    "category": "table",
+    "id": 8,
+    "page": 1,
+    "content": {
+      "html": "<table id='8' style='font-size:16px'><thead><tr><td>청구인</td><td>피청구인</td></tr></thead><tbody><tr><td>사 한자방송 ... 최고화장대</td><td>로</td></tr><tr><td>· 청구차량은 우측도로에서 녹색신호에 교차로를 직진으 로 통과 중이고, 피청구차량은 좌측도로에서 적색신호에 교차로를 직진으로 통과 중이므로(신호위반), · 과실도표 201도를 적용하여 피청구인 과실 100% 적용 함이 타당함</td><td>· 피청구차량은 적색신호가 아닌 황색신호에 교차로 진입 하였고, 양 차량의 손상부위를 고려하면 피청구차량이 교 차로에 선진입하였으므로, · 청구인 40%, 피청구인 60% 과실적용함이 타당함</td></tr></tbody></table>",
+      "text": "청구인\n피청구인\n사 한자방송 ... 최고화장대\n로\n· 청구차량은 우측도로에서 녹색신호에 교차로를 직진으 로 통과 중이고, 피청구차량은 좌측도로에서 적색신호에 교차로를 직진으로 통과 중이므로(신호위반), · 과실도표 201도를 적용하여 피청구인 과실 100% 적용 함이 타당함\n· 피청구차량은 적색신호가 아닌 황색신호에 교차로 진입 하였고, 양 차량의 손상부위를 고려하면 피청구차량이 교 차로에 선진입하였으므로, · 청구인 40%, 피청구인 60% 과실적용함이 타당함"
+    }
+  },
+  {
+    "category": "paragraph",
+    "id": 9,
+    "page": 1,
+    "content": {
+      "html": "<br><p id='9' data-category='paragraph' style='font-size:22px'>1.<br>자동차와<br>자동차의<br>사고</p>",
+      "text": "1.\n자동차와\n자동차의\n사고"
+    }
+  }
+]

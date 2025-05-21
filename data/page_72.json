@@ -1,0 +1,68 @@
+[
+  {
+    "category": "header",
+    "content": {
+      "html": "<header id='722' style='font-size:14px'>자동차사고 과실비율분쟁 심의 사례 I 제1장 자동차와 자동차의 사고</header>"
+    }
+  },
+  {
+    "category": "header",
+    "content": {
+      "html": "<br><header id='723' style='font-size:14px'>091</header>"
+    }
+  },
+  {
+    "category": "heading1",
+    "content": {
+      "html": "<h1 id='724' style='font-size:20px'>입증 자료</h1>"
+    }
+  },
+  {
+    "category": "table",
+    "content": {
+      "html": "<table id='725' style='font-size:16px'><thead></thead><tbody><tr><td>· 청구차량의 진행방향 사진(일시정지 표시 없음)</td><td></td></tr><tr><td>· 피청구차량의 진행방향 사진(일시정지 표시 있음)</td><td>· 청구차량의 사진(조수석 앞부분 파손) · 피청구차량의 사진(운전석 측면 파손)</td></tr></tbody></table>"
+    }
+  },
+  {
+    "category": "heading1",
+    "content": {
+      "html": "<h1 id='726' style='font-size:20px'>주요 쟁점</h1>"
+    }
+  },
+  {
+    "category": "paragraph",
+    "content": {
+      "html": "<p id='727' data-category='paragraph' style='font-size:16px'>● 일시정지 표시가 한쪽 방향에만 있는 교차로에서 좌회전차량과 오른쪽 도로에서 일시정지를 위반하여 직진<br>중이던 차량 간의 사고인지 여부</p>"
+    }
+  },
+  {
+    "category": "heading1",
+    "content": {
+      "html": "<h1 id='728' style='font-size:20px'>결정 근거</h1>"
+    }
+  },
+  {
+    "category": "list",
+    "content": {
+      "html": "<br><p id='729' data-category='list' style='font-size:16px'>현장사진 등 제출된 자료에 의하면, 좌회전하던 청구차량과 노면에 일시정지 표시가 있는 우측 도로에서 일시<br>정지 없이 직진하던 피청구차량 간의 사고로 볼 수 있음<br>도로형태와 양 차량의 파손부위 등 고려할 때 청구차량은 좌회전차량으로 볼 수 있는 점</p>"
+    }
+  },
+  {
+    "category": "heading1",
+    "content": {
+      "html": "<h1 id='730' style='font-size:20px'>결정 이유</h1>"
+    }
+  },
+  {
+    "category": "list",
+    "content": {
+      "html": "<br><p id='731' data-category='list' style='font-size:18px'>휴게소 내 교차로에서 청구차량이 좌회전 중 오른쪽 도로에서 직진하는 피청구차량과 충돌한 사고로, 피청구<br>차량이 진입한 도로의 노면에 일시정지 표시가 있고, 제출된 자료에 의하면 피청구차량은 일시정지 없이 교차<br>로에 진입하였음을 고려하여 과실비율을 결정함<br>도표 227은 도표 226과 달리 일시정지 의무를 위반한 직진차량이 오른쪽에서 진입하는 경우에는 도로교<br>통법 제26조 제3항에 따라 직진차량의 과실을 10% 낮추어 왼쪽 도로에서 좌회전을 한 차량의 기본과실을<br>40%, 오른쪽 도로에서 일시정지 의무를 위반하여 직진한 차량의 기본과실을 60%로 정하고 있음<br>본 사고는 휴게소 내 교차로에서 발생한 사고이므로, 도표 227의 사고 장소와 다소 차이가 있으나, 일시정지<br>표시가 한쪽에만 있는 점, 양 차량의 진입방향을 종합할 때 도표 227의 기본과실을 준용할 수 있는 사고로 판<br>단하여 과실비율을 결정하였음<br>청구차량 40% 피청구차량 60%</p>"
+    }
+  },
+  {
+    "category": "paragraph",
+    "content": {
+      "html": "<br><p id='732' data-category='paragraph' style='font-size:22px'>1.<br>자동차와<br>자동차의<br>사고</p>"
+    }
+  }
+]
