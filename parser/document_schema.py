@@ -14,38 +14,15 @@ client = OpenAI(
 )
 
 
-# === 1. Load and merge HTML content by page ===
+# === 1. Load pre-merged HTML blocks ===
 page = "1-80"
-file_name = f"data/parsed_negligence_ratio-{page}.json"
-with open(file_name, "r", encoding="utf-8") as f:
-    data = json.load(f)
+input_type = "text"
+input_path = f"data/negligence_ratio_parsed/negligence_ratio-{page}_{input_type}.json"
 
-elements = data.get("elements", [])
-page_html_map = defaultdict(list)
+with open(input_path, "r", encoding="utf-8") as f:
+    merged_blocks = json.load(f)
 
-for el in elements:
-    page = el.get("page")
-    html = el.get("content", {}).get("html", "")
-    if page is not None and html:
-        page_html_map[page].append(html)
-
-merged_page_html = {page: "\n".join(htmls) for page, htmls in page_html_map.items()}
-
-
-# === 2. Merge every two pages and prepare inputs ===
-sorted_pages = sorted(merged_page_html.keys())
-merged_blocks = []
-
-for i in range(0, len(sorted_pages), 2):
-    pages = sorted_pages[i:i+2]
-    html_combined = "\n".join(merged_page_html[p] for p in pages if p in merged_page_html)
-    merged_blocks.append({
-        "merged_id": (i // 2) + 1,
-        "html": html_combined,
-        "pages": pages
-    })
-
-print(merged_blocks[0])
+print(f"📦 Loaded {len(merged_blocks)} merged {input_type} blocks from {input_path}")
 
 
 # === 3. Prepare shared schema === 
@@ -129,12 +106,19 @@ response_format={
 # === 4. Send each HTML block and get structured responses ===
 results = []
 
-for block in tqdm(merged_blocks, desc="🔄 Processing merged HTML blocks"):
-    html_input = block["html"]
+sys_message = f"""
+You are an expert in information extraction.
+
+1. **Use the exact wording that appears in the {input_type}. Do NOT paraphrase, translate, summarize.**
+2. Strip any decorative bullets, emojis, or icons if they appear in the {input_type}.
+3. Return ONLY valid JSON matching the provided schema. No code-blocks, no explanations."""
+
+for block in tqdm(merged_blocks, desc=f"🔄 Processing merged {input_type} blocks"):
+    html_input = block[input_type]
     messages = [
         {
             "role": "system",
-            "content": "You are an expert in information extraction. Extract information from the given HTML representation of image and organize them into a clear and accurate JSON format."
+            "content": f"You are an expert in information extraction. Extract information from the given {input_type} **without summarizing, paraphrasing, or omitting details**. Use the original expressions as much as possible. Organize them into a clear and accurate JSON format according to the schema."
         },
         {
             "role": "user",
@@ -154,15 +138,17 @@ for block in tqdm(merged_blocks, desc="🔄 Processing merged HTML blocks"):
 
     print(result)
 
+
     results.append({
-        "merged_id": block["merged_id"],
-        "pages": block["pages"],
+        "merged_id": block.get("id"),
         "response": result
     })
+
  
 # === 5. Save the results ===
+output_path = f"data/negligence_ratio_extracted/extracted_accident_cases-{page}_{input_type}.json"
 
-with open(f"data/extracted_accident_cases-{page}.json", "w", encoding="utf-8") as f:
+with open(output_path, "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
 print("🎉 All blocks processed. Output saved")
