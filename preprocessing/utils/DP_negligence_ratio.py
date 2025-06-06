@@ -6,8 +6,13 @@ import time
 from collections import defaultdict
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+from pathlib import Path
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+# Add project root to Python path
+project_root = str(Path(__file__).parent.parent.parent)
+if project_root not in sys.path:
+    sys.path.append(project_root)
+
 from config import UPSTAGE_API_KEY
 
 # === Configuration ===
