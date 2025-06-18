@@ -1,11 +1,16 @@
 import sys
-import os
+from pathlib import Path
+
+# Add project root to Python path
+project_root = str(Path(__file__).parent.parent.parent)
+if project_root not in sys.path:
+    sys.path.append(project_root)
+
 from openai import OpenAI
 from collections import defaultdict
 import json
 from tqdm import tqdm
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config import UPSTAGE_API_KEY
 
 client = OpenAI(

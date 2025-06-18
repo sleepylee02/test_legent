@@ -8,6 +8,14 @@ document_to_json.py
 • 실패   레코드는 debug_bad_records/ 아래 *.txt 로 남겨서 눈으로 확인
 """
 
+import sys
+from pathlib import Path
+
+# Add project root to Python path
+project_root = str(Path(__file__).parent.parent.parent)
+if project_root not in sys.path:
+    sys.path.append(project_root)
+
 import argparse
 import html
 import json
